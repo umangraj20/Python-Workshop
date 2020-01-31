@@ -3,6 +3,11 @@
 var1=(1,"c",False)
 print(var1)
 
+#Q2 Write a Python program to create a tuple with different data types
+
+var1 = (1, "a", "first")
+var1
+
 #Q3 Write a Python program to create a tuple with numbers and print one item.
 var2=(1,4,7)
 print(var2[2])
